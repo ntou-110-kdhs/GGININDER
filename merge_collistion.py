@@ -4,5 +4,5 @@ def cameraMove:
 	print("TODO")
 def charaterMove:
 	#todo
-	pjiadsipjdspijadsijp
+	pjiadsipjdspi#fruihuuhfr#jadsijp
 	print("TODO")
